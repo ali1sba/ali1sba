@@ -8,9 +8,10 @@
 - 🎓 I'm a Software engineer & a PhD student at LIAS / ISAE-ENSMA. 
 - 🔭 I am currently focused on **modeling archaeological knowledge** and **leveraging large language models (LLMs) for textual data knowledge extraction**.
 - 🤔 My current interests lie in **embedding mechanisms** and employing **retrieval-augmented generation (RAG) strategies in large language models (LLMs)**.
+- 🤸‍♂️ In my free time, I'm working on [PhD-France](https://github.com/ali1sba/PhD-France)
 - 💬 Ask me about anything related to LLMs, RAG & backend development. 😄
 - 📫 How to reach me: [email address](mailto:a.hariri@esi-sba.dz?subject=[GitHub]Question:...)
-- In my free time, I'm working on [PhD-France](https://github.com/ali1sba/PhD-France)
+
 
 **Let's code, connect, and create awesome things together!**
 
